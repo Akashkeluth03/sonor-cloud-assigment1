@@ -1,1 +1,0 @@
-# sonor-cloud-assigment1
